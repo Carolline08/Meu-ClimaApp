@@ -40,7 +40,7 @@ https://open-meteo.com/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/MeuClima-App-react-native.git
+git clone [//github.com/seuusuario/MeuClima-App-react-native.git](https://github.com/Carolline08/Meu-ClimaApp.git)
 ```
 
 Entre na pasta do projeto:
