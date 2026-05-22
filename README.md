@@ -46,7 +46,7 @@ git clone [//github.com/seuusuario/MeuClima-App-react-native.git](https://github
 Entre na pasta do projeto:
 
 ```bash
-cd weather-app-react-native
+cd MeuClima-App-react-native
 ```
 
 Instale as dependências:
